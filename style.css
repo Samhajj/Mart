@@ -1,16 +1,16 @@
 @font-face {
   font-family: Helvetica;
-  src: url(/Font/Helvetica-Font/Helvetica.ttf);
+  src: url(Font/Helvetica-Font/Helvetica.ttf);
 }
 
 @font-face {
   font-family: Damion;
-  src: url(/Font/damion-font/damion-8gnd.ttf);
+  src: url(Font/damion-font/damion-8gnd.ttf);
 }
 
 @font-face {
   font-family: mbcorpostext;
-  src: url(/Font/mbcorpoatitle-regular/mbcorpoatitle-regular.otf);
+  src: url(Font/mbcorpoatitle-regular/mbcorpoatitle-regular.otf);
 }
 
 * {
