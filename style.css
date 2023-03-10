@@ -31,6 +31,12 @@ body {
   height: auto;
 }
 
+.preview-mode {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
 .products-container {
   padding: 5% 10%;
 }
@@ -187,7 +193,7 @@ body {
   display: grid;
   align-items: center;
   justify-content: center;
-  top: 30%;
+  top: 10%;
   left: 50%;
   transform: translate(-50%, 0%);
   background: rgb(1, 1, 65);
