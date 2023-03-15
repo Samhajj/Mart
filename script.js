@@ -78,7 +78,7 @@ product1EL.addEventListener("click", function () {
   overlay.classList.remove("hidden");
   times.classList.remove("hidden");
   previewImage.src = `images/1 (9).png`;
-  mainBody.style.height = `110vh`;
+  mainBody.style.height = `130vh`;
   mainBody.style.overflow = `hidden`;
 });
 
@@ -87,7 +87,7 @@ product2EL.addEventListener("click", function () {
   overlay.classList.remove("hidden");
   times.classList.remove("hidden");
   previewImage.src = `images/1 (1).png`;
-  mainBody.style.height = `110vh`;
+  mainBody.style.height = `130vh`;
   mainBody.style.overflow = `hidden`;
 });
 
@@ -96,7 +96,7 @@ product3EL.addEventListener("click", function () {
   overlay.classList.remove("hidden");
   times.classList.remove("hidden");
   previewImage.src = `images/1 (13).png`;
-  mainBody.style.height = `110vh`;
+  mainBody.style.height = `130vh`;
   mainBody.style.overflow = `hidden`;
 });
 
@@ -105,7 +105,7 @@ product4EL.addEventListener("click", function () {
   overlay.classList.remove("hidden");
   times.classList.remove("hidden");
   previewImage.src = `images/1 (11).png`;
-  mainBody.style.height = `110vh`;
+  mainBody.style.height = `130vh`;
   mainBody.style.overflow = `hidden`;
 });
 
@@ -114,7 +114,7 @@ product5EL.addEventListener("click", function () {
   overlay.classList.remove("hidden");
   times.classList.remove("hidden");
   previewImage.src = `images/1 (7).png`;
-  mainBody.style.height = `110vh`;
+  mainBody.style.height = `130vh`;
   mainBody.style.overflow = `hidden`;
 });
 
@@ -123,7 +123,7 @@ product6EL.addEventListener("click", function () {
   overlay.classList.remove("hidden");
   times.classList.remove("hidden");
   previewImage.src = `images/1 (8).png`;
-  mainBody.style.height = `110vh`;
+  mainBody.style.height = `130vh`;
   mainBody.style.overflow = `hidden`;
 });
 
